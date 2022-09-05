@@ -1,0 +1,39 @@
+// GIT, COURSE 
+
+// Sistema de Control de Versiones
+
+// Historial Completo del Codigo de Nuestra Aplicación 
+
+// 1.0 - Realizamos algun cambio - 1.1 - 1.2
+
+// Rollback
+
+
+
+// Usos de Git 
+
+- Historial
+- Almacenamiento de Codigo
+- Trabajar en Equipo 
+- Cuando se Introdujo un Error
+
+// En windows cada vez que agregamos un salto de linea
+
+// va agregar 2 caracteres cr, line feed, en linux solamente line feed;
+
+autocrlf true windows
+autocrlf input linux
+
+// Comandos Basicos de BASH 
+pwd Saber en que directorio estamos 
+
+// Flujo de Trabajo en GIT
+
+|Computer| |Stage  | |Commit|    |Server|
+|   FILE   | SELECT  |      |    |      |
+
+1 git add => Stage 
+
+2 git commit => (Opcional => Server en Nube)
+
+3 
