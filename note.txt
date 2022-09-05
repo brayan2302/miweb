@@ -9,3 +9,5 @@ git Ignorar Archivos y Directorios
 git Visualizando los Cambios Realizados
 
 git Revisar el Historial de todo el repositorio
+
+git ramas, Git Branch, Git Merge
