@@ -1,1 +1,5 @@
 "Note is Example"
+
+name = Brayan
+lastname = Pulido
+ci = 29771286

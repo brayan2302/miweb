@@ -7,3 +7,5 @@ git restore --staged [nombre_archivo]
 git Ignorar Archivos y Directorios
 
 git Visualizando los Cambios Realizados
+
+git Revisar el Historial de todo el repositorio
