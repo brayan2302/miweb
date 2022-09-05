@@ -1,0 +1,3 @@
+GIT - FULL COURSE : Brayan Pulido
+
+git rm [name_archivo]
